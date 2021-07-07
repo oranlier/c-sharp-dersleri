@@ -1,0 +1,16 @@
+C:\Users\brk\Documents\patika\c sharp dersleri\bin\Debug\net5.0\c sharp dersleri.exe
+C:\Users\brk\Documents\patika\c sharp dersleri\bin\Debug\net5.0\c sharp dersleri.deps.json
+C:\Users\brk\Documents\patika\c sharp dersleri\bin\Debug\net5.0\c sharp dersleri.runtimeconfig.json
+C:\Users\brk\Documents\patika\c sharp dersleri\bin\Debug\net5.0\c sharp dersleri.runtimeconfig.dev.json
+C:\Users\brk\Documents\patika\c sharp dersleri\bin\Debug\net5.0\c sharp dersleri.dll
+C:\Users\brk\Documents\patika\c sharp dersleri\bin\Debug\net5.0\ref\c sharp dersleri.dll
+C:\Users\brk\Documents\patika\c sharp dersleri\bin\Debug\net5.0\c sharp dersleri.pdb
+C:\Users\brk\Documents\patika\c sharp dersleri\obj\Debug\net5.0\c sharp dersleri.csproj.AssemblyReference.cache
+C:\Users\brk\Documents\patika\c sharp dersleri\obj\Debug\net5.0\c sharp dersleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brk\Documents\patika\c sharp dersleri\obj\Debug\net5.0\c sharp dersleri.AssemblyInfoInputs.cache
+C:\Users\brk\Documents\patika\c sharp dersleri\obj\Debug\net5.0\c sharp dersleri.AssemblyInfo.cs
+C:\Users\brk\Documents\patika\c sharp dersleri\obj\Debug\net5.0\c sharp dersleri.csproj.CoreCompileInputs.cache
+C:\Users\brk\Documents\patika\c sharp dersleri\obj\Debug\net5.0\c sharp dersleri.dll
+C:\Users\brk\Documents\patika\c sharp dersleri\obj\Debug\net5.0\ref\c sharp dersleri.dll
+C:\Users\brk\Documents\patika\c sharp dersleri\obj\Debug\net5.0\c sharp dersleri.pdb
+C:\Users\brk\Documents\patika\c sharp dersleri\obj\Debug\net5.0\c sharp dersleri.genruntimeconfig.cache
